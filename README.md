@@ -21,8 +21,8 @@ MEV Army Banners are 100% on-chain ASCII images, customizable (within specific p
 
 ## Deployments on Ethereum Mainnet
 
-`ASCIIGenerator`: [0xEE1cE82345847FFCcF5bA119967Dcc7dAeA482CF](https://etherscan.io/address/0xee1ce82345847ffccf5ba119967dcc7daea482cf)
-`MEVArmyBanners`: [0xEf9cFE6D004Accd9156529D3177065D6b757bCD6](https://etherscan.io/address/0xef9cfe6d004accd9156529d3177065d6b757bcd6#readContract)
+- `ASCIIGenerator`: [0xEE1cE82345847FFCcF5bA119967Dcc7dAeA482CF](https://etherscan.io/address/0xee1ce82345847ffccf5ba119967dcc7daea482cf)
+- `MEVArmyBanners`: [0xEf9cFE6D004Accd9156529D3177065D6b757bCD6](https://etherscan.io/address/0xef9cfe6d004accd9156529d3177065d6b757bcd6#readContract)
 
 
 ## Disclaimer
