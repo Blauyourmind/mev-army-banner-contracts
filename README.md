@@ -19,6 +19,12 @@ MEV Army Banners are 100% on-chain ASCII images, customizable (within specific p
 
 - `MEVArmyBanners.sol`: Manifold Extension to mint MEV Army Banners. This contract also holds the state for updating MEV Army Banners (i.e., ASCII text color and the ASCII number used in the MEV Army Banner artwork).
 
+## Deployments on Ethereum Mainnet
+
+`ASCIIGenerator`: [0xEE1cE82345847FFCcF5bA119967Dcc7dAeA482CF](https://etherscan.io/address/0xee1ce82345847ffccf5ba119967dcc7daea482cf)
+`MEVArmyBanners`: [0xEf9cFE6D004Accd9156529D3177065D6b757bCD6](https://etherscan.io/address/0xef9cfe6d004accd9156529d3177065d6b757bcd6#readContract)
+
+
 ## Disclaimer
 
 _These smart contracts are being provided as is. No guarantee, representation or warranty is being made, express or implied, as to the safety or correctness of the user interface or the smart contracts. They have not been audited and as such there can be no assurance they will work as intended, and users may experience delays, failures, errors, omissions or loss of transmitted information. THE SMART CONTRACTS CONTAINED HEREIN ARE FURNISHED AS IS, WHERE IS, WITH ALL FAULTS AND WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING ANY WARRANTY OF MERCHANTABILITY, NON- INFRINGEMENT OR FITNESS FOR ANY PARTICULAR PURPOSE. Further, use of any of these smart contracts may be restricted or prohibited under applicable law, including securities laws, and it is therefore strongly advised for you to contact a reputable attorney in any jurisdiction where these smart contracts may be accessible for any questions or concerns with respect thereto. Further, no information provided in this repo should be construed as investment advice or legal advice for any particular facts or circumstances, and is not meant to replace competent counsel. x0r labs LLC is not liable for any use of the foregoing, and users should proceed with caution and use at their own risk._
